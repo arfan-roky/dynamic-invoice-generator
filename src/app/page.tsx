@@ -411,10 +411,11 @@ export default function Home() {
                   Is there a mobile app available?
                 </AccordionTrigger>
                 <AccordionContent>
-                  Yes, we offer mobile apps for both iOS and Android devices.
-                  The mobile app allows you to create invoices, track time, and
-                  view reports on the go. You can also receive notifications for
-                  invoice payments and approvals.
+                  No, we currently don't offer a mobile app. However, our web
+                  application is fully responsive and works well on mobile
+                  browsers, allowing you to access your invoices, track time,
+                  and view reports from any device. A dedicated mobile app is on
+                  our future roadmap based on user demand.
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
